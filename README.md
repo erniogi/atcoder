@@ -28,6 +28,8 @@ install node.js
 
 * [download node.js](https://nodejs.org/ja/)
 
+after, install npm
+
 ```bash
 sudo npm install -g npm
 ```
